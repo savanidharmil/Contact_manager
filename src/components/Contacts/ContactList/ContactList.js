@@ -272,7 +272,7 @@ const ContactList = () => {
                     keyboard={false}
                 >
                     <Modal.Header closeButton>
-                    <Modal.Title>Create Contact</Modal.Title>
+                    <Modal.Title>View Contact Details</Modal.Title>
                     </Modal.Header>
                     <Modal.Body>
                         <Card style={{backgroundColor:'#e9ecef'}}>
